@@ -1,0 +1,5 @@
+print("Hi, I am Sonali Joshna")
+print("B.Tech AIML 3rd Year - AIMPT") 
+print("Learning AI/ML for Tata Electronics Hosur")
+name = input("Enter your name: ")
+print("Welcome to my GitHub,", name)
